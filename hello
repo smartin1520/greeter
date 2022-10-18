@@ -2,5 +2,5 @@
 
 # Program to greet any person given their name
 
-name="Leila"
+name="Leia"
 echo "Hi ${name}"
