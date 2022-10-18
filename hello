@@ -3,4 +3,4 @@
 # Program to greet any person given their name
 
 name="Leila"
-echo "Hi ${name}"
+echo "Hello ${name}"
